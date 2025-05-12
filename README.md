@@ -110,4 +110,4 @@ The suite covers **100 %** of the public API, including edge cases (single val
 
 ## 📄 License
 
-Released under the MIT License – see the [`LICENSE`](LICENSE) file for full text.
+Released under the MIT License
